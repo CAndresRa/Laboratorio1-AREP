@@ -89,4 +89,4 @@ Se han realizado un **total de 16** pruebas en donde se contemplan distintos esc
 
 Puede obtener los Javadocs de este documento en el siguiente enlace [JavaDocs](https://github.com/CAndresRa/Laboratorio1-AREP/tree/master/apidocs) o generarlos directamente desde su editor de texto favorito mediante el comando `mvn javadoc:javadoc` como se muestra a continuacion
 
-[](https://github.com/CAndresRa/Laboratorio1-AREP/blob/master/ImgReadme/Java%20Doc.png)
+![](https://github.com/CAndresRa/Laboratorio1-AREP/blob/master/ImgReadme/Java%20Doc.png)
