@@ -39,6 +39,10 @@ por ejemplo:
 
 ![](https://github.com/CAndresRa/Laboratorio1-AREP/blob/master/ImgReadme/Directory.png)
 
+## Documento PDF realizado en LATEX 
+
+[Introduction To Complex Systems Java MVN And Git](https://github.com/CAndresRa/Laboratorio1-AREP/blob/master/Introduction%20To%20Complex%20Systems%2C%20Java%2C%20MVN%2CAnd%20Git.pdf)
+
 ## Diagrama
 
 * Aplicación 
@@ -75,7 +79,7 @@ Se han realizado un **total de 16** pruebas en donde se contemplan distintos esc
 
 * Pruebas implementadas
 
-![Texto alternativo](https://github.com/CAndresRa/ARSW-SegundoLaboratorio/blob/master/ImgReadme/Test%20actualizado.png)
+![Texto alternativo](https://github.com/CAndresRa/Laboratorio1-AREP/blob/master/ImgReadme/Implement%20test.png)
 
 * Utilizando el comando de `mvn test`
 
